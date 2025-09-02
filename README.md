@@ -31,5 +31,3 @@ The model achieved high predictive accuracy on unseen test data, resulting in an
 
 
 
-Apple (AAPL) - Actual vs. Predicted Prices
-(Replace with the link to your saved AAPL_prediction_plot.png)
