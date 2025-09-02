@@ -14,7 +14,7 @@ This project develops a deep learning model to forecast daily stock prices for m
 
 **Tech Stack**
 
-Python
+* Python
 
 * Pandas & NumPy for data manipulation
 
